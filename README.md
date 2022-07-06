@@ -26,7 +26,7 @@ Este problema es quizás la más grande de los temores en el mundo cripto, porqu
 Todas las criptomonedas así provengan de blockchain diferentes y teniendo diferentes tipos de comunidades y utilidades, todas las que están en los exchanges sufren de la volatilidad de las principales criptomonedas para el alza o para la baja, significando que un invierno cripto del Bitcoin o del Ethereum, será un invierno para todas las criptomonedas listadas en los exchanges.
 Este protocolo lo que busca es el control de los precios de los cripto activos mediante un sistema de gobernabilidad, una protección del invierno cripto y generar confianza para una inversión a mediano y largo plazo.
 
-#### 2 	La volatilidad  
+### 2 	La volatilidad  
 
 La volatilidad de las criptomonedas es un evento que es muy común, al punto que al momento de ser redactado este protocolo tenemos a la criptomoneda Dogecoin que tiene una de las más grandes capitalizaciones, la misma que se mueve en gran medida por tweets y noticias especulativas. 
 
@@ -45,7 +45,7 @@ Muchos analistas señalan que la corrección no será tan grande como el 80% com
 Simplemente podemos señalar que cuando viene el invierno no es tiempo de sembrar y tampoco hay nada para cosechar sino solo esperar a que el clima cambie. 
 
 
-##### 3 	El protocolo Summer  
+### 3 	El protocolo Summer  
  
 
 
@@ -83,7 +83,7 @@ Valorización del token propia del sistema
  
 Lo que hace el protocolo es quitar este mecanismo de valorización del activo y suplantarlo por un sistema de gobernabilidad en donde se establezca el reparto de ganancias, rentabilidad y valor de la criptomoneda o token. 
 
-###### 4 Staking o participación
+### 4 Staking o participación
  
 De todos los instrumentos que tiene las DeFi los staking son los más recomendados para una valoración inherente del token, pues lo que hacen es brindar una ganancia controlada por el sistema de recompensa. 
 
@@ -92,7 +92,7 @@ Esta participación de la criptomoneda, garantiza una productividad propia dentr
 Esta recompensa debería ser implementada con un valor de recompensa total del 60%, quedando el 40% para ser distribuido por el sistema inicial de lanzamiento del token
 
 
-####### 5 	Perdida de valorización 
+### 5 	Perdida de valorización 
  
 Cuando el precio relativo del activo baja un 20% del valor se aplica la modalidad de quema o eliminación de activos.
 
@@ -100,7 +100,7 @@ Esta modalidad es muy utilizada en blockchain en donde se quiere controlar la ca
 
 Un caso especial es el periodo de lanzamiento e implementación de la interface que interactúa con el usuario, pues es un periodo demasiado temprano como para considerar perdidas de valorización, por lo que estas deberían estar limitadas luego de terminada la implementación total de interacción del sistema DeFi. 
  
-######## 6 Conclusiones 
+### 6 Conclusiones 
  
 El protocolo Summer usa el valor de toda la DeFi para asegurar el valor del activo digital. También señala que ingresar a un Exchange es un riesgo para el sistema DeFi por la volatilidad y la especulación que hasta el momento existe en gran medida, por lo que se recomienda un sistema cerrado de finanzas con gobernabilidad capaz de mover la mayor cantidad de criptoactivos para mantener el precio y asegurar las ganancias por periodos y compensar las perdidas con la eliminación de criptomonedas o tokens. 
 
