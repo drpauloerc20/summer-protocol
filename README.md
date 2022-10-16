@@ -4,7 +4,7 @@ __Summer Protocolo es un protocolo de protección del invierno crypto__
  
 Autor: ___Dr Paulo Morocho___ 
 
-Email: drpaulitoc@beorus.com
+Email: drpaulitoc@allmedgroup.org
     
 *Actualización: Mayo 04, 2021* 
  
