@@ -55,33 +55,15 @@ El protocolo summer describe como valorizar una criptomoneda con un entorno cerr
 
 La generación de ganancias del sistema es la que asegura el valor de los activos en general, para esto el sistema debe tener productos o servicios que si permitan el intercambio entre usuarios generando este si un valor producto de la ley de oferta y demanda de un mercado abierto para mejorar la efectividad del alcance y la capitalización. 
 
+![Texto alternativo](https://github.com/drpauloerc20/protocolo-summer/blob/main/protocolo-summer1.png)
  	 
 
-
-
-
-
-
-
-
-
-
-Valorización del token en los Exchange
  
 Lo que hace el protocolo es quitar este mecanismo de valorización del activo y suplantarlo por un sistema de gobernabilidad que es activado por periodos trimestrales.
 
- 	 
+![Texto alternativo](https://github.com/drpauloerc20/protocolo-summer/blob/main/protocolo-summer1.png)
 
 
-
-
-
-
-
-
-
-
-Valorización del token propia del sistema
  
 Lo que hace el protocolo es quitar este mecanismo de valorización del activo y suplantarlo por un sistema de gobernabilidad en donde se establezca el reparto de ganancias, rentabilidad y valor de la criptomoneda o token. 
 
