@@ -7,11 +7,12 @@ __Un protocolo de protección del invierno crypto__
  
 Autor: ___Dr Paulo Morocho___ 
 
-drpaulitoc@beorus.com
-    Actualización: Mayo 04, 2021 
+Email: drpaulitoc@beorus.com
+    
+*Actualización: Mayo 04, 2021* 
  
  
-## Resumen.
+### Resumen.
 
 El principal riesgo de los activos digitales que provienen de las blockchains criptográficas es que están sujetas a la volatilidad de las criptomonedas. Este escenario que pasa a menudo provoca una incertidumbre en los inversionistas cuando las bajas son del 10 al 20% del valor, pero el escenario del invierno cripto es devastador para el inversionista, el ejemplo de este invierno fue lo que paso a finales del 2017 cuando el valor de las criptomonedas cayó un 80% por más de 12 meses, significando la banca rota de empresas, proyectos y de la economía de múltiples inversionistas. Este documento técnico busca un control del precio del token por un sistema de gobernanza cerrado con valorización controlada y auditada. 
 
