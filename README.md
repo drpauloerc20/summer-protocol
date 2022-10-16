@@ -1,6 +1,6 @@
 ![Texto alternativo](https://github.com/drpauloerc20/protocolo-summer/blob/main/protocol%20summer.svg)
 
-__Un protocolo de protección del invierno crypto__ 
+__Summer Protocolo es un protocolo de protección del invierno crypto__ 
  
 Autor: ___Dr Paulo Morocho___ 
 
