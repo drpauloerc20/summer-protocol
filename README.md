@@ -3,11 +3,12 @@
 ![Texto alternativo](https://github.com/drpauloerc20/protocolo-summer/blob/main/protocol%20summer.svg)
 
 
-  /summer/ 
-Un protocolo de protección del invierno crypto 
+__Un protocolo de protección del invierno crypto__ 
  
-Dr Paulo Morocho drpaulitoc@beorus.com
- Mayo 04, 2021 
+Autor: ___Dr Paulo Morocho___ 
+
+drpaulitoc@beorus.com
+    Actualización: Mayo 04, 2021 
  
  
 ## Resumen.
